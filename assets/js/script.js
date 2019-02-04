@@ -1,3 +1,3 @@
 $(function(){
-  $('li').css({'color': 'red'});
+  $('li').css('color', 'red');
 });
